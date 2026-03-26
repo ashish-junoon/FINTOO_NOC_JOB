@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NO DUES CERTIFICATE</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body style="font-family: Arial, sans-serif;">
+    <div class="d-flex justify-content-center">
+        <div  style=" width: 100%;max-width: 250mm;height: 100%;background-color: rgba(255, 255, 255, 0.9);">
+            <div>
+                <a href="">
+                    <img src="https://www.junooncapital.com/images/letterhead.png" alt="logo" style="width:100%;">
+                </a>
+            </div>
+            <div style="text-align:center;font-size: 18px; font-weight: bold;margin-bottom: 30px;margin:-17px auto;padding: 58px;">
+                <p style="margin-bottom: 15px;">NO DUES CERTIFICATE</p>
+            </div>
+            <div class="p-lg" style="font-size:14px;line-height:-6.4;margin-bottom:20px;">
+			     <p style="margin-bottom:12px;"><span style="font-weight: bold;">Date : </span> [current_date]</p>
+                <p style="margin-bottom:12px;"><span style="font-weight: bold;">To,</span></p>
+				<p style="margin-bottom:12px;"><span style="font-weight: bold;">Dear [name],</span></p>
+				    <p style="margin-bottom:12px;"><span style="font-weight: bold;">Address: </span> [address]</p>
+                <p style="margin-bottom:12px;"><span style="font-weight: bold;">Loan Number : </span> [loan_id]</p>
+				<p style="margin-bottom:12px;"><span style="font-weight: bold;">Loan Tenure:  </span> [tenure] [_tenure] (as declared and accepted by customer)</p>
+				<p style="margin-bottom:12px;"><span style="font-weight: bold;">Loan Amount (Rs.): </span> [loan_amount]</p>
+                
+                <p style="margin-bottom:12px;">Consequent upon on full repayment of your loan amount and/or other dues to [company_product_name], a Product Brand Name of M/s [company_name] ([company_short_name]), your above-mentioned loan account is closed on [closed_date]. in our books.</p>
+
+                <p style="margin-bottom:12px;">Furthermore, we would like to inform you that any unbanked / unused cheques issued by you in Favour [company_name] with regards to the above-mentioned loan account shall be cancelled and/ or destroyed immediately.</p>
+
+                <p style="margin-bottom:12px;">Thank you for selecting [company_name] as your preferred financial partner. We hope you shall be in touch with us for all your financial needs in future.</p>
+            </div>
+            <div style="text-align: left;font-size: 14px;font-weight: bold;margin-top: 30px; width:100%;">
+			 <p>Thanking you</p>
+			
+             <img src="https://www.junooncapital.com/images/PU_Auth_Signature.png" style="height:50px;" alt="logo">
+                <p>For [company_name]</p>
+                <p>Loan Department</p>
+            </div>
+			
+			 <div style="margin-top: 70px">
+                <a href="">
+                    <img src="https://www.junooncapital.com/images/letterfooter.png" alt="logo" style="width:100%;">
+                </a>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
