@@ -11,7 +11,7 @@
         <div  style=" width: 100%;max-width: 250mm;height: 100%;background-color: rgba(255, 255, 255, 0.9);">
             <div>
                 <a href="">
-                    <img src="https://www.junooncapital.com/images/letterhead.png" alt="logo" style="width:100%;">
+                    <img src="https://fynto.in/images/header.png" alt="logo" style="width:100%;">
                 </a>
             </div>
             <div style="text-align:center;font-size: 18px; font-weight: bold;margin-bottom: 30px;margin:-17px auto;padding: 58px;">
@@ -35,14 +35,13 @@
             <div style="text-align: left;font-size: 14px;font-weight: bold;margin-top: 30px; width:100%;">
 			 <p>Thanking you</p>
 			
-             <img src="https://www.junooncapital.com/images/PU_Auth_Signature.png" style="height:50px;" alt="logo">
                 <p>For [company_name]</p>
                 <p>Loan Department</p>
             </div>
 			
 			 <div style="margin-top: 70px">
                 <a href="">
-                    <img src="https://www.junooncapital.com/images/letterfooter.png" alt="logo" style="width:100%;">
+                    <img src="https://fynto.in/images/footer.png" alt="logo" style="width:100%;">
                 </a>
             </div>
         </div>
