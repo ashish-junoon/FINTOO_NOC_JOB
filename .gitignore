@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/FT_NOC_JOB/FileContentIndex/f1978758-cfca-4916-9d77-50b4f7f31287.vsidx
+/.vs/FT_NOC_JOB/FileContentIndex/fe2f157e-a6c7-406a-8077-cf08c75dada7.vsidx
+/.vs/FYNTO_NOC_JOB/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/FT_NOC_JOB/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/.vs/FYNTO_NOC_JOB/v17/.wsuo
+/.vs/FT_NOC_JOB/v17/DocumentLayout.backup.json
+/.vs/FT_NOC_JOB/v17/DocumentLayout.json
