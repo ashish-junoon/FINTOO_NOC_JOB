@@ -1,0 +1,15 @@
+2026-04-02 16:48:52.7727 INFO Application started...02-04-2026 16:48:52
+2026-04-02 16:48:52.7887 ERROR previoius .html and .pdf file deleted !!
+2026-04-02 16:49:06.2773 INFO Data Count from Database: 2
+2026-04-02 16:49:25.9992 INFO Send loan closure process start: FT0025SC0010FTP016
+2026-04-02 16:49:44.3122 INFO Fatch data in database !!
+2026-04-02 16:49:44.4432 INFO Fatch data in database !!
+2026-04-02 16:50:00.1358 INFO disbursalDocumentPath path - D:\Project_Junoon_Fynto\FT_NOC_JOB\FT_NOC_JOB\LoanCloserDocument
+2026-04-02 17:00:36.8773 INFO Application started...02-04-2026 17:00:36
+2026-04-02 17:00:36.8952 ERROR previoius .html and .pdf file deleted !!
+2026-04-02 17:02:22.6629 INFO Data Count from Database: 2
+2026-04-02 17:02:51.9986 INFO Send loan closure process start: FT0025SC0010FTP016
+2026-04-02 17:03:31.5798 INFO Fatch data in database !!
+2026-04-02 17:03:31.7034 INFO Fatch data in database !!
+2026-04-02 17:03:47.5701 INFO disbursalDocumentPath path - D:\Project_Junoon_Fynto\FT_NOC_JOB\FT_NOC_JOB\LoanCloserDocument
+2026-04-02 17:04:13.0221 INFO NOCDocumentPath path - D:\Project_Junoon_Fynto\FT_NOC_JOB\FT_NOC_JOB\LoanCloserDocument

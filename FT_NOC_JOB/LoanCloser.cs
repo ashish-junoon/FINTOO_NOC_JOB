@@ -30,7 +30,7 @@ namespace LOAN_CLOSER_APPLICATION
                     {
                         string _rootPath = ConfigurationManager.AppSettings["RootDirectory"].ToString();
                         string _loancloserDocumentPath = Path.Combine(_rootPath, "LoanCloserDocument");
-                        logger.Info($"disbursalDocumentPath path - {_loancloserDocumentPath}");
+                        logger.Info($"NOCDocumentPath path - {_loancloserDocumentPath}");
                         string _loancloserFilePath = Path.Combine(_loancloserDocumentPath, $"{loanCloserModels.product_name}{loanCloserModels.doucumentname}.txt");
                         if (File.Exists(_loancloserFilePath))
                         {
