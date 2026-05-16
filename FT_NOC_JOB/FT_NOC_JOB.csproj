@@ -204,7 +204,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Content Include="LoanCloserDocument\FT_Loan_Closer_Letter.txt" />
     <Content Include="LoanCloserDocument\FT_Loan_ForeClosure.txt" />
     <Content Include="LoanCloserDocument\FT_NOC_Loan_Settlement.txt" />
     <Content Include="LoanCloserDocument\FT_NO_DUES_CERTIFICATE.txt" />

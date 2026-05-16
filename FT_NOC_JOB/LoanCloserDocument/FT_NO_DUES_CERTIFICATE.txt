@@ -33,9 +33,9 @@
                 <p style="margin-bottom:12px;">Thank you for selecting [company_name] as your preferred financial partner. We hope you shall be in touch with us for all your financial needs in future.</p>
             </div>
             <div style="text-align: left;font-size: 14px;font-weight: bold;margin-top: 30px; width:100%;">
-			 <p>Thanking you</p>
-			
-                <p>For [company_name]</p>
+			    <img src="https://fynto.in/images/singnature_FT.png" style="width:10%; transform: rotate(-30deg);" alt="logo" > 
+			    <p>Thanking you</p>
+                <p>Team Fynto</p>
                 <p>Loan Department</p>
             </div>
 			

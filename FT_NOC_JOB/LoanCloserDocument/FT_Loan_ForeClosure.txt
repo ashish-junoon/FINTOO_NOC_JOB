@@ -32,9 +32,10 @@
                 <p style="margin-bottom:12px;">Furthermore, we would like to inform you that any unbanked / unused cheques issued by you in favour of [company_name] with regards to the above-mentioned loan account shall be cancelled and/ or destroyed immediately.</p>
 				<p style="margin-bottom:12px;">Thank you for selecting [company_name] as your preferred financial partner. We hope you will be in touch with us for all your financial needs in future</P>
 			</div>
-            <div style="text-align: left;font-size: 14px;font-weight: bold;margin-top: 30px; width:100%;">
-			 <p>Thanking you</p>
-                <p>For [company_name]</p>
+           <div style="text-align: left;font-size: 14px;font-weight: bold;margin-top: 30px; width:100%;">
+			    <img src="https://fynto.in/images/singnature_FT.png" style="width:10%; transform: rotate(-30deg);" alt="logo" > 
+			    <p>Thanking you</p>
+                <p>Team Fynto</p>
                 <p>Loan Department</p>
             </div>
 			
